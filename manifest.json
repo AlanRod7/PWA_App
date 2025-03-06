@@ -2,82 +2,76 @@
         "name": "ProyectoPWA",
         "short_name": "BCH PWA",
         "description": "Aplicacion PWA CV personal",
-        "background_color": "",
-        "theme_color": "",
+        "background_color": "#FFF",
+        "theme_color": "#FB314E",
         "orientation": "portrait",
         "display": "standalone",
-        "start_url": "public_html/index.html",
+        "start_url": "/index.html",
         "scope": "./",
         "lang": "es-MX",
         "icons":[
             {
-                "src": "./public_html/assets/imgs/icono1024x1024.png",
-                "sizes": "1024x1024",
-                "type": "image/png",
-                "purpose": "any"
-            },
-            {
-                "src": "./public_html/assets/imgs/icono512x512.png",
+                "src": "./assets/imgs/icono512x512.png",
                 "sizes": "512x512",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono384x384.png",
+                "src": "./assets/imgs/icono384x384.png",
                 "sizes": "384x384",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono256x256.png",
+                "src": "./assets/imgs/icono256x256.png",
                 "sizes": "256x256",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono240x240.png",
+                "src": "./assets/imgs/icono240x240.png",
                 "sizes": "240x240",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono192x192.png",
+                "src": "./assets/imgs/icono192x192.png",
                 "sizes": "192x192",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono144x144.png",
+                "src": "./assets/imgs/icono144x144.png",
                 "sizes": "144x144",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono128x128.png",
+                "src": "./assets/imgs/icono128x128.png",
                 "sizes": "128x128",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono96x96.png",
+                "src": "./assets/imgs/icono96x96.png",
                 "sizes": "96x96",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono64x64.png",
+                "src": "./assets/imgs/icono64x64.png",
                 "sizes": "64x64",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono32x32.png",
+                "src": "./assets/imgs/icono32x32.png",
                 "sizes": "32x32",
                 "type": "image/png",
                 "purpose": "any"
             },
             {
-                "src": "./public_html/assets/imgs/icono16x16.png",
+                "src": "./assets/imgs/icono16x16.png",
                 "sizes": "16x16",
                 "type": "image/png",
                 "purpose": "any"

@@ -4,24 +4,24 @@ const CACHE_NAME = "v1_cache_PWA";
 
 var urlsToCache = [
     './',
-    './public_html/assets/css/alan.css',
-    './public_html/assets/js/alan.js',
-    './public_html/assets/scss/',
-    './public_html/assets/imgs/avatar.jpg',
-    './public_html/assets/imgs/header.jpg',
-    './public_html/assets/imgs/icono16x16.jpg',
-    './public_html/assets/imgs/icono32x32.jpg',
-    './public_html/assets/imgs/icono64x64.jpg',
-    './public_html/assets/imgs/icono96x96.jpg',
-    './public_html/assets/imgs/icono128x128.jpg',
-    './public_html/assets/imgs/icono144x144.jpg',
-    './public_html/assets/imgs/icono192x192.jpg',
-    './public_html/assets/imgs/icono240x240.jpg',
-    './public_html/assets/imgs/icono256x256.jpg',
-    './public_html/assets/imgs/icono384x384.jpg',
-    './public_html/assets/imgs/icono512x512.jpg',
-    './public_html/assets/imgs/icono1024x1024.jpg',
-    './public_html/assets/imgs/icons8-rick-sanchez-64.png'
+    './assets/css/alan.css',
+    './assets/js/alan.js',
+    './assets/scss/',
+    './assets/imgs/avatar.jpg',
+    './assets/imgs/header.jpg',
+    './assets/imgs/icono16x16.jpg',
+    './assets/imgs/icono32x32.jpg',
+    './assets/imgs/icono64x64.jpg',
+    './assets/imgs/icono96x96.jpg',
+    './assets/imgs/icono128x128.jpg',
+    './assets/imgs/icono144x144.jpg',
+    './assets/imgs/icono192x192.jpg',
+    './assets/imgs/icono240x240.jpg',
+    './assets/imgs/icono256x256.jpg',
+    './assets/imgs/icono384x384.jpg',
+    './assets/imgs/icono512x512.jpg',
+    './assets/imgs/icono1024x1024.jpg',
+    './assets/imgs/icons8-rick-sanchez-64.png'
 ];
 
 self.addEventListener('install', e => {
